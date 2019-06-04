@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT scoop_4249.wsgi:application

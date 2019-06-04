@@ -1,0 +1,3 @@
+rootProject.name = 'scoop_4249'
+
+include ':app'
